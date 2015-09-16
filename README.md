@@ -26,5 +26,13 @@ Bitcoin keys. The mechanism can also be used in other ways, such as encrypting d
 
 [![Build Status](https://travis-ci.org/harningt/atomun-mnemonic.svg?branch=develop)](https://travis-ci.org/harningt/atomun-mnemonic)
 
+## atomun-keygen
+
+The [atomun-keygen](https://github.com/harningt/atomun-keygen) project implements the necessary
+details to generate keys using deterministic / random key algorithms to implement useful
+wallets.
+
+[![Build Status](https://travis-ci.org/harningt/atomun-keygen.svg?branch=develop)](https://travis-ci.org/harningt/atomun-keygen)
+
 [Apache2.0]: http://www.apache.org/licenses/LICENSE-2.0
 [SemVer2.0]: http://semver.org/spec/v2.0.0.html
