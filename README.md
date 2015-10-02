@@ -18,6 +18,16 @@ All projects, unless otherwise noted, are under the [Apache 2.0 license][Apache2
 
 Also, all libraries will follow the guidelines set forth in [Semantic Versioning 2.0][SemVer2.0]
 
+## atomun-core
+
+The [atomun-core](https://github.com/harningt/atomun-core) project implements base necessary
+utilities to be used (eventually) by the other projects.
+
+This leaves the potential for the core project to implement test helper and this (atomun) project
+to combine all of the projects into a nice UI for visual experimentation.
+
+[![Build Status](https://travis-ci.org/harningt/atomun-core.svg?branch=develop)](https://travis-ci.org/harningt/atomun-core)
+
 ## atomun-mnemonic
 
 The [atomun-mnemonic](https://github.com/harningt/atomun-mnemonic) project implements the necessary
