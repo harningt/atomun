@@ -27,6 +27,7 @@ This leaves the potential for the core project to implement test helper and this
 to combine all of the projects into a nice UI for visual experimentation.
 
 DEVELOP [![Build Status](https://travis-ci.org/harningt/atomun-core.svg?branch=develop)](https://travis-ci.org/harningt/atomun-core) [![codecov.io](https://codecov.io/github/harningt/atomun-core/coverage.svg?branch=develop)](https://codecov.io/github/harningt/atomun-core?branch=develop)
+
 MASTER [![Build Status](https://travis-ci.org/harningt/atomun-core.svg?branch=master)](https://travis-ci.org/harningt/atomun-core) [![codecov.io](https://codecov.io/github/harningt/atomun-core/coverage.svg?branch=master)](https://codecov.io/github/harningt/atomun-core?branch=master)
 
 ## atomun-mnemonic
@@ -36,6 +37,7 @@ details to generate mnemonic sequences and turn them into data that can be used 
 Bitcoin keys. The mechanism can also be used in other ways, such as encrypting data.
 
 DEVELOP [![Build Status](https://travis-ci.org/harningt/atomun-mnemonic.svg?branch=develop)](https://travis-ci.org/harningt/atomun-mnemonic) [![codecov.io](https://codecov.io/github/harningt/atomun-mnemonic/coverage.svg?branch=develop)](https://codecov.io/github/harningt/atomun-mnemonic?branch=develop)
+
 MASTER [![Build Status](https://travis-ci.org/harningt/atomun-mnemonic.svg?branch=master)](https://travis-ci.org/harningt/atomun-mnemonic) [![codecov.io](https://codecov.io/github/harningt/atomun-mnemonic/coverage.svg?branch=master)](https://codecov.io/github/harningt/atomun-mnemonic?branch=master)
 
 ## atomun-keygen
@@ -45,6 +47,7 @@ details to generate keys using deterministic / random key algorithms to implemen
 wallets.
 
 DEVELOP [![Build Status](https://travis-ci.org/harningt/atomun-keygen.svg?branch=develop)](https://travis-ci.org/harningt/atomun-keygen) [![codecov.io](https://codecov.io/github/harningt/atomun-keygen/coverage.svg?branch=develop)](https://codecov.io/github/harningt/atomun-keygen?branch=develop)
+
 MASTER [![Build Status](https://travis-ci.org/harningt/atomun-keygen.svg?branch=master)](https://travis-ci.org/harningt/atomun-keygen) [![codecov.io](https://codecov.io/github/harningt/atomun-keygen/coverage.svg?branch=master)](https://codecov.io/github/harningt/atomun-keygen?branch=master)
 
 [Apache2.0]: http://www.apache.org/licenses/LICENSE-2.0
