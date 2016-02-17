@@ -26,7 +26,7 @@ utilities to be used (eventually) by the other projects.
 This leaves the potential for the core project to implement test helper and this (atomun) project
 to combine all of the projects into a nice UI for visual experimentation.
 
-[![Build Status](https://travis-ci.org/harningt/atomun-core.svg?branch=develop)](https://travis-ci.org/harningt/atomun-core)
+[![Build Status](https://travis-ci.org/harningt/atomun-core.svg?branch=develop)](https://travis-ci.org/harningt/atomun-core) [![codecov.io](https://codecov.io/github/harningt/atomun-core/coverage.svg?branch=develop)](https://codecov.io/github/harningt/atomun-core?branch=develop)
 
 ## atomun-mnemonic
 
@@ -34,7 +34,7 @@ The [atomun-mnemonic](https://github.com/harningt/atomun-mnemonic) project imple
 details to generate mnemonic sequences and turn them into data that can be used to generate
 Bitcoin keys. The mechanism can also be used in other ways, such as encrypting data.
 
-[![Build Status](https://travis-ci.org/harningt/atomun-mnemonic.svg?branch=develop)](https://travis-ci.org/harningt/atomun-mnemonic)
+[![Build Status](https://travis-ci.org/harningt/atomun-mnemonic.svg?branch=develop)](https://travis-ci.org/harningt/atomun-mnemonic) [![codecov.io](https://codecov.io/github/harningt/atomun-mnemonic/coverage.svg?branch=develop)](https://codecov.io/github/harningt/atomun-mnemonic?branch=develop)
 
 ## atomun-keygen
 
@@ -42,7 +42,7 @@ The [atomun-keygen](https://github.com/harningt/atomun-keygen) project implement
 details to generate keys using deterministic / random key algorithms to implement useful
 wallets.
 
-[![Build Status](https://travis-ci.org/harningt/atomun-keygen.svg?branch=develop)](https://travis-ci.org/harningt/atomun-keygen)
+[![Build Status](https://travis-ci.org/harningt/atomun-keygen.svg?branch=develop)](https://travis-ci.org/harningt/atomun-keygen) [![codecov.io](https://codecov.io/github/harningt/atomun-keygen/coverage.svg?branch=develop)](https://codecov.io/github/harningt/atomun-keygen?branch=develop)
 
 [Apache2.0]: http://www.apache.org/licenses/LICENSE-2.0
 [SemVer2.0]: http://semver.org/spec/v2.0.0.html
